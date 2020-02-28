@@ -1,5 +1,5 @@
 intents:
-  - greet
+  - greet:{triggers:action_greet}
   - bye
   - thank
   - faq
@@ -19,6 +19,7 @@ actions:
   - utter_noworries
   - utter_bye
   - respond_faq
+  - action_greet
 
 templates:
   utter_noworries:

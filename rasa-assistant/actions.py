@@ -26,6 +26,17 @@ from rasa_sdk.executor import CollectingDispatcher
 #
 #         return []
 from rasa_sdk.forms import FormAction
+from rasa_sdk.events import UserUtteranceReverted
+
+class ActionGreetUser(Action):
+    """Revertible mapped action for utter_greet"""
+
+    def name(self):
+        return "action_greet"
+
+    def run(self, dispatcher, tracker, domain):
+        dispatcher.utter_template("utter_greet", tracker)
+        return [UserUtteranceReverted()]
 
 class SalesForm(FormAction):
     """Collects sales information and adds it to the spreadsheet"""

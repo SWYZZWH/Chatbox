@@ -1,0 +1,74 @@
+{
+"repository_url": "git@github.com:SWYZZWH/rasa-chatbox.git",
+"ssh_key": "-----BEGIN RSA PRIVATE KEY-----
+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
+-----END RSA PRIVATE KEY-----",
+"target_branch": "master"
+}
+curl -k -F "model=@my_model.tar.gz" "https://swyzzwh.club/api/projects/default/models?api_token=fdbc71ae2d495f1e3c929d2fe73f49bb902b7104"
+curl --request POST \
+--url https://swyzzwh.club/api/projects/default/models?api_token=fdbc71ae2d495f1e3c929d2fe73f49bb902b7104 \
+--header 'content-type: application/json' \
+--data-binary @repository.json
+curl -k -F "model=@my_model.tar.gz" http://34.92.70.70/api/projects/default/models?api_token=539ddb1333f68b82a0ea8cfd32df7f3cf8b574eb
+curl -k -F "model=@./models/20200208-210332.tar.gz" "http://swyzzwh.club/api/projects/default/models?api_token=fdbc71ae2d495f1e3c929d2fe73f49bb902b7104"
+telegram:
+	access_token: "1047036048:AAGrPha3IMgpi_3KSbsBZOPvNab76D12Ph8"
+	verify:"zwh_bot"
+	webhook_url:"https://swyzzwh.club/webhooks/telegram/webhook"
+telegram:
+	access_token: "1047036048:AAGrPha3IMgpi_3KSbsBZOPvNab76D12Ph8"
+	verify:"zwh_bot"
+	webhook_url:"https://api.telegram.org/bot1047036048:AAGrPha3IMgpi_3KSbsBZOPvNab76D12Ph8/setWebHook?url=https://swyzzwh.club/webhooks/telegram/webhook"
+telegram:
+  access_token: "995036704:AAE8UhIvikx9OFfFF8S_m8gjXVEAh70n77E"
+  verify: "swyzzwh_bot"
+  webhook_url:  "https://swyzzwh.club/webhooks/telegram/webhook"

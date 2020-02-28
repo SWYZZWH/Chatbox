@@ -65,6 +65,7 @@
 - sales please
 
 ## intent:inform
+
 - [100k](budget)
 - [100k](budget)
 - [240k/year](budget)

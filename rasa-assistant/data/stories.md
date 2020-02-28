@@ -1,7 +1,4 @@
-## greet
 
-* greet
-  - utter_greet
 
 ## thank
 
